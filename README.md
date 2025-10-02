@@ -1,4 +1,4 @@
-# 🚀 Regular Hustle - Daily Learning Journey
+#  Hustle - Daily Learning Journey
 
 Welcome to my coding journey repository! This is where I document my daily progress, experiments, and learnings in web development.
 
